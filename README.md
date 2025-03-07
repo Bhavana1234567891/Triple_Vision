@@ -1,4 +1,4 @@
-Early Stage Detection of Breast Cancer Using AI
+Early Stage Detection of Breast Cancer Using deep learning
 
 Overview
 
